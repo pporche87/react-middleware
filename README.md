@@ -16,3 +16,4 @@ React/Redux application with middleware.
 - Babel
 - JavaScript
 - Node 
+- Axios
